@@ -4,119 +4,119 @@
 
 The CVPR best paper award is picked by a committee delegated by the program chairs of the conference. It recognizes the very best work appearing at the conference.
 
-| Year | Paper                                                        | Author                                                       |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | ["Visual Programming: Compositional Visual Reasoning Without Training"]((https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)) | T. Gupta, A. Kembhavi                                        |
-| 2023 | [“Planning-Oriented Autonomous Driving”](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf) [Code](https://github.com/OpenDriveLab/UniAD) | Y. Hu, J. Yang, L. Chen, K. Li, C. Sima, X. Zhu, S. Chai, S. Du, T. Lin, W. Wang, L. Lu, X. Jia, Q. Liu, J. Dai, Y. Qiao, H. Li |
-| 2022 | [“Learning to Solve Hard Minimal Problems”](https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf) | P. Hruby, T. Duff, A. Leykin, T. Pajdla                      |
-| 2021 | [“GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields”](https://openaccess.thecvf.com/content/CVPR2021/html/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.html)" | M. Niemeyer, A. Geiger                                       |
-| 2020 | [“Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf) [Demo](https://elliottwu.com/projects/20_unsup3d/) | S. Wu, C. Rupprecht, A. Vedaldi                              |
-| 2019 | [“A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction”](https://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf) | S. Xin, S. Nousias, K. Kutulakos, A. Sankaranarayanan, S. G. Narasimhan, I. Gkioulekas |
-| 2018 | “Taskonomy: Disentangling Task Transfer Learning”            | A. R. Zamir, A. Sax, W. Shen, L. J. Guibas, J. Malik, S. Savarese |
-| 2017 | “Densely Connected Convolutional Networks”                   | G. Huang, Z. Liu, L. van der Maaten, K. Q. Weinberger        |
-| 2017 | “Learning from Simulated and Unsupervised Images through Adversarial Training” | A. Shrivastava, T. Pfister, O. Tuzel, J. Susskind, W. Wang, R. Webb |
-| 2016 | “Deep Residual Learning for Image Recognition”               | K. He, X. Zhang, S. Ren, J. Sun                              |
-| 2015 | “DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time” | R. A. Newcombe, D. Fox, S. M. Seitz                          |
-| 2014 | “What Camera Motion Reveals About Shape with Unknown BRDF”   | M. K. Chandraker                                             |
-| 2013 | “Fast, Accurate Detection of 100,000 Object Classes on a Single Machine” | T. Dean, J. Yagnik, M. Ruzon, M. Segal, J. Shlens, S. Vijayanarasimhan |
-| 2012 | “A Simple Prior-free Method for Non-Rigid Structure-from-Motion Factorization” | Y. Dai, H. Li, M. He                                         |
-| 2011 | “Real-time Human Pose Recognition in Parts from Single Depth Images” | J. Shotton, A. Fitzgibbon, M. Cook, T. Sharp, M. Finocchio, R. Moore, A. Kipman, A. Blake |
-| 2010 | “Efficient Computation of Robust Low-Rank Matrix Approximations in the Presence of Missing Data using the L1 Norm” | A. Eriksson, A. van den Hengel                               |
-| 2009 | “Single Image Haze Removal Using Dark Channel Prior”         | K. He, J. Sun, X. Tang                                       |
-| 2008 | “Beyond Sliding Windows: Object Localization by Efficient Subwindow Search” | C. H. Lampert, M. B. Blaschko, T. Hofmann                    |
-| 2008 | “Global Stereo Reconstruction under Second Order Smoothness Priors” | O. Woodford, I. Reid, P. Torr, A. Fitzgibbon                 |
-| 2007 | “Dynamic 3D Scene Analysis from a Moving Vehicles”           | B. Leibe, N. Cornelis, K. Cornelis, L. Van Gool              |
-| 2006 | “Putting Objects in Perspective”                             | D. Hoiem, A. Efros, M. Hebert                                |
-| 2005 | “Real-Time Non-Rigid Surface Detection”                      | J. Pilet, V. Lepetit, P. Fua                                 |
-| 2004 | “Programmable Imaging Using a Digital Micromirror Array”     | S. K. Nayar, V. Branzoi, T. Boult                            |
-| 2003 | “Object Class Recognition by Unsupervised Scale-Invariant Learning” | R. Fergus, P. Perona, A. Zisserman                           |
-| 2001 | “Morphable 3D Models From Video”                             | M. Brand                                                     |
-| 2000 | “Real-Time Tracking of Non-Rigid Objects using Mean Shift”   | D. Comaniciu, V. Ramesh, P. Meer                             |
-| 1999 | “Robust Hierarchical Algorithm for Constructing a Mosaic from Images of the Curved Human Retina” | A. Can, C. V. Stewart, B. Roysam                             |
-| 1998 | “Optimal Structure from Motion: Local Ambiguities and Global Estimates” | A. Chiuso, R. Brockett, S. Soatto                            |
-| 1997 | “What is a Light Source?”                                    | M. Langer, S. Zucker                                         |
-| 1997 | “Learning Bilinear Models for Two-factor Problems in Vision” | W. T. Freeman, J. B. Tenenbaum                               |
-| 1996 | “What is the Set of Images of an Object Under All Possible Lighting Conditions?” | P. Belhumeur, D. Kriegman                                    |
-| 1991 | “Face Recognition Using Eigenfaces”                          | M. Turk, A. Pentland                                         |
-| 1991 | “Robust Dynamic Motion Estimation Over Time”                 | M. J. Black, P. Anandan                                      |
-| 1991 | “Determining 3-D object Pose Using the Complex Extended Gaussian Image” | S. B. Kang and K. Ikeuchi                                    |
-| 1988 | “Large Hierarchical Object Recognition Using Libraries of Parameterized Model Sub-Parts” | G. J. Ettinger                                               |
+| Year | Paper                                                        | Author                                                       | Code                                                         | Demo |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 2023 | ["Visual Programming: Compositional Visual Reasoning Without Training"](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf) | T. Gupta, A. Kembhavi                                        |                                                              |      |
+| 2023 | [“Planning-Oriented Autonomous Driving”](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf) | Y. Hu, J. Yang, L. Chen, K. Li, C. Sima, X. Zhu, S. Chai, S. Du, T. Lin, W. Wang, L. Lu, X. Jia, Q. Liu, J. Dai, Y. Qiao, H. Li | [Code](https://github.com/OpenDriveLab/UniAD) ![Stars](https://img.shields.io/github/stars/OpenDriveLab/UniAD) |      |
+| 2022 | [“Learning to Solve Hard Minimal Problems”](https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf) | P. Hruby, T. Duff, A. Leykin, T. Pajdla                      |                                                              |      |
+| 2021 | [“GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields”](https://openaccess.thecvf.com/content/CVPR2021/html/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.html)" | M. Niemeyer, A. Geiger                                       |                                                              |      |
+| 2020 | [“Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf) [Demo](https://elliottwu.com/projects/20_unsup3d/) | S. Wu, C. Rupprecht, A. Vedaldi                              |                                                              |      |
+| 2019 | [“A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction”](https://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf) | S. Xin, S. Nousias, K. Kutulakos, A. Sankaranarayanan, S. G. Narasimhan, I. Gkioulekas |                                                              |      |
+| 2018 | “Taskonomy: Disentangling Task Transfer Learning”            | A. R. Zamir, A. Sax, W. Shen, L. J. Guibas, J. Malik, S. Savarese |                                                              |      |
+| 2017 | “Densely Connected Convolutional Networks”                   | G. Huang, Z. Liu, L. van der Maaten, K. Q. Weinberger        |                                                              |      |
+| 2017 | “Learning from Simulated and Unsupervised Images through Adversarial Training” | A. Shrivastava, T. Pfister, O. Tuzel, J. Susskind, W. Wang, R. Webb |                                                              |      |
+| 2016 | “Deep Residual Learning for Image Recognition”               | K. He, X. Zhang, S. Ren, J. Sun                              |                                                              |      |
+| 2015 | “DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time” | R. A. Newcombe, D. Fox, S. M. Seitz                          |                                                              |      |
+| 2014 | “What Camera Motion Reveals About Shape with Unknown BRDF”   | M. K. Chandraker                                             |                                                              |      |
+| 2013 | “Fast, Accurate Detection of 100,000 Object Classes on a Single Machine” | T. Dean, J. Yagnik, M. Ruzon, M. Segal, J. Shlens, S. Vijayanarasimhan |                                                              |      |
+| 2012 | “A Simple Prior-free Method for Non-Rigid Structure-from-Motion Factorization” | Y. Dai, H. Li, M. He                                         |                                                              |      |
+| 2011 | “Real-time Human Pose Recognition in Parts from Single Depth Images” | J. Shotton, A. Fitzgibbon, M. Cook, T. Sharp, M. Finocchio, R. Moore, A. Kipman, A. Blake |                                                              |      |
+| 2010 | “Efficient Computation of Robust Low-Rank Matrix Approximations in the Presence of Missing Data using the L1 Norm” | A. Eriksson, A. van den Hengel                               |                                                              |      |
+| 2009 | “Single Image Haze Removal Using Dark Channel Prior”         | K. He, J. Sun, X. Tang                                       |                                                              |      |
+| 2008 | “Beyond Sliding Windows: Object Localization by Efficient Subwindow Search” | C. H. Lampert, M. B. Blaschko, T. Hofmann                    |                                                              |      |
+| 2008 | “Global Stereo Reconstruction under Second Order Smoothness Priors” | O. Woodford, I. Reid, P. Torr, A. Fitzgibbon                 |                                                              |      |
+| 2007 | “Dynamic 3D Scene Analysis from a Moving Vehicles”           | B. Leibe, N. Cornelis, K. Cornelis, L. Van Gool              |                                                              |      |
+| 2006 | “Putting Objects in Perspective”                             | D. Hoiem, A. Efros, M. Hebert                                |                                                              |      |
+| 2005 | “Real-Time Non-Rigid Surface Detection”                      | J. Pilet, V. Lepetit, P. Fua                                 |                                                              |      |
+| 2004 | “Programmable Imaging Using a Digital Micromirror Array”     | S. K. Nayar, V. Branzoi, T. Boult                            |                                                              |      |
+| 2003 | “Object Class Recognition by Unsupervised Scale-Invariant Learning” | R. Fergus, P. Perona, A. Zisserman                           |                                                              |      |
+| 2001 | “Morphable 3D Models From Video”                             | M. Brand                                                     |                                                              |      |
+| 2000 | “Real-Time Tracking of Non-Rigid Objects using Mean Shift”   | D. Comaniciu, V. Ramesh, P. Meer                             |                                                              |      |
+| 1999 | “Robust Hierarchical Algorithm for Constructing a Mosaic from Images of the Curved Human Retina” | A. Can, C. V. Stewart, B. Roysam                             |                                                              |      |
+| 1998 | “Optimal Structure from Motion: Local Ambiguities and Global Estimates” | A. Chiuso, R. Brockett, S. Soatto                            |                                                              |      |
+| 1997 | “What is a Light Source?”                                    | M. Langer, S. Zucker                                         |                                                              |      |
+| 1997 | “Learning Bilinear Models for Two-factor Problems in Vision” | W. T. Freeman, J. B. Tenenbaum                               |                                                              |      |
+| 1996 | “What is the Set of Images of an Object Under All Possible Lighting Conditions?” | P. Belhumeur, D. Kriegman                                    |                                                              |      |
+| 1991 | “Face Recognition Using Eigenfaces”                          | M. Turk, A. Pentland                                         |                                                              |      |
+| 1991 | “Robust Dynamic Motion Estimation Over Time”                 | M. J. Black, P. Anandan                                      |                                                              |      |
+| 1991 | “Determining 3-D object Pose Using the Complex Extended Gaussian Image” | S. B. Kang and K. Ikeuchi                                    |                                                              |      |
+| 1988 | “Large Hierarchical Object Recognition Using Libraries of Parameterized Model Sub-Parts” | G. J. Ettinger                                               |                                                              |      |
 
 ## CVPR Best Student Paper Award
 
 The CVPR best student paper award is picked by a committee delegated by the program chairs of the conference. It recognizes the very best work appearing at the conference where the first author was a student at the time of submission.
 
-| Year | Paper                                                        | Author                                                       |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | [“3D Registration With Maximal Cliques”](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.pdf) | X. Zhang, J. Yang, S. Zhang, Y. Zhang                        |
-| 2022 | [“EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation”](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf) | H. Chen, P. Wang, F. Wang, W. Tian, L. Xiong, H. Li          |
-| 2021 | [“Task Programming: Learning Data Efficient Behavior Representations”](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Task_Programming_Learning_Data_Efficient_Behavior_Representations_CVPR_2021_paper.html) | J. J. Sun, A. Kennedy, E. Zhan, D. J. Anderson, Y. Yue, P. Perona |
-| 2020 | [“BSP-Net: Generating Compact Meshes via Binary Space Partitioning”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf) [Demo](https://bsp-net.github.io/) | Z. Chen, A. Tagliasacchi, H. Zhang                           |
-| 2019 | [“Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation”](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.pdf) | X. Wang, Q. Huang, A. Celikyilmaz, J. Gao, D. Shen, Y.-F. Wang, W. Y. Wang, L. Zhang |
-| 2018 | “Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies” | H. Joo, T. Simon, Y. Sheikh                                  |
-| 2017 | “Computational Imaging on the Electric Grid”                 | M. Sheinin, Y. Y. Schechner, K. N. Kutulakos                 |
-| 2016 | “Structural-RNN: Deep Learning on Spatio-Temporal Graphs”    | A. Jain, A. R. Zamir, S. Savarese, A. Saxena                 |
-| 2015 | “Category-Specific Object Reconstruction from a Single Image” | A. Kar, S. Tulsiani, J. Carreira, J. Malik                   |
-| 2014 | “Partial Optimality by Pruning for MAP-inference with General Graphical Models” | P. Swoboda, B. Savchynskyy, J. Kappes, C. Schnorr            |
-| 2013 | “Discriminative Non-blind Deblurring”                        | U. Schmidt, C. Rother, S. Nowozin, J. Jancsary, S. Roth      |
-| 2012 | “Max-Margin Early Event Detectors”                           | M. Hoai, F. De la Torre                                      |
-| 2011 | “Recognition Using Visual Phrases”                           | A. Farhadi, M. Amin Sadeghi                                  |
-| 2011 | “Separating Reflective and Fluorescent Components of An Image” (Honorable Mention) | C. Zhang, I. Sato                                            |
-| 2010 | “Visual Event Recognition in Videos by Learning from Web Data” | L. Duan, D. Xu, W.-H. Tsang, J. Luo                          |
-| 2010 | “Modeling Mutual Context of Object and Human Pose in Human-Object Interaction Activities” (Honorable Mention) | B. Yao, L. Fei-Fei                                           |
-| 2009 | “Nonparametric Scene Parsing: Label Transfer via Dense Scene Alignment” | C. Liu, J. Yuen, A. Torralba                                 |
-| 2009 | “A Tensor-Based Algorithm for High-Order Graph Matching” (Honorable Mention) | O. Duchenne, F. Bach, I. S. Kweon, J. Ponce                  |
-| 2008 | “Fast Image Search for Learned Metrics”                      | P. Jain, B. Kulis, K. Grauman                                |
-| 2007 | “Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Life Spans” | Y. Li, H. Ai, T. Yamashita, S. Lao, M. Kawade                |
-| 2006 | “Fast Image Search for Learned Metrics”                      | P. Jain, B. Kulis, K. Grauman                                |
-| 2003 | “Vector-Valued Image Regularization with PDE’s: A Common Framework for Different Applications” | D. Tschumperle, R. Deriche                                   |
-| 2001 | “Tracking and modeling non-rigid objects with rank constraints” | L. Torresani, D. Yang, E. Alexander, C. Bregler              |
-| 2001 | “Dense image matching with global and local statistical criteria: a variational approach” (Outstanding Student Paper) | G. Hermosillo, O. Faugeras                                   |
-| 2001 | “JPDAF based HMM for real-time contour tracking” (Outstanding Student Paper) | Y. Chen, Y. Rui, T. Huang                                    |
-| 2001 | “Model-based curve evolution techniques for image segmentation” (Outstanding Student Paper) | A. Tsai, A. Yezzi, W. Wells, C. Tempany, D. Tucker, A. Fan, E. Grimson, A. Willsky |
-| 1994 | “Occluding Contour Detection Using Affine Invariants and Purposive Viewpoint Control” | K. Kutulakos and C. Dyer                                     |
+| Year | Paper                                                        | Author                                                       | Code | Demo |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| 2023 | [“3D Registration With Maximal Cliques”](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.pdf) | X. Zhang, J. Yang, S. Zhang, Y. Zhang                        |      |      |
+| 2022 | [“EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation”](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf) | H. Chen, P. Wang, F. Wang, W. Tian, L. Xiong, H. Li          |      |      |
+| 2021 | [“Task Programming: Learning Data Efficient Behavior Representations”](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Task_Programming_Learning_Data_Efficient_Behavior_Representations_CVPR_2021_paper.html) | J. J. Sun, A. Kennedy, E. Zhan, D. J. Anderson, Y. Yue, P. Perona |      |      |
+| 2020 | [“BSP-Net: Generating Compact Meshes via Binary Space Partitioning”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf) [Demo](https://bsp-net.github.io/) | Z. Chen, A. Tagliasacchi, H. Zhang                           |      |      |
+| 2019 | [“Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation”](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.pdf) | X. Wang, Q. Huang, A. Celikyilmaz, J. Gao, D. Shen, Y.-F. Wang, W. Y. Wang, L. Zhang |      |      |
+| 2018 | “Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies” | H. Joo, T. Simon, Y. Sheikh                                  |      |      |
+| 2017 | “Computational Imaging on the Electric Grid”                 | M. Sheinin, Y. Y. Schechner, K. N. Kutulakos                 |      |      |
+| 2016 | “Structural-RNN: Deep Learning on Spatio-Temporal Graphs”    | A. Jain, A. R. Zamir, S. Savarese, A. Saxena                 |      |      |
+| 2015 | “Category-Specific Object Reconstruction from a Single Image” | A. Kar, S. Tulsiani, J. Carreira, J. Malik                   |      |      |
+| 2014 | “Partial Optimality by Pruning for MAP-inference with General Graphical Models” | P. Swoboda, B. Savchynskyy, J. Kappes, C. Schnorr            |      |      |
+| 2013 | “Discriminative Non-blind Deblurring”                        | U. Schmidt, C. Rother, S. Nowozin, J. Jancsary, S. Roth      |      |      |
+| 2012 | “Max-Margin Early Event Detectors”                           | M. Hoai, F. De la Torre                                      |      |      |
+| 2011 | “Recognition Using Visual Phrases”                           | A. Farhadi, M. Amin Sadeghi                                  |      |      |
+| 2011 | “Separating Reflective and Fluorescent Components of An Image” (Honorable Mention) | C. Zhang, I. Sato                                            |      |      |
+| 2010 | “Visual Event Recognition in Videos by Learning from Web Data” | L. Duan, D. Xu, W.-H. Tsang, J. Luo                          |      |      |
+| 2010 | “Modeling Mutual Context of Object and Human Pose in Human-Object Interaction Activities” (Honorable Mention) | B. Yao, L. Fei-Fei                                           |      |      |
+| 2009 | “Nonparametric Scene Parsing: Label Transfer via Dense Scene Alignment” | C. Liu, J. Yuen, A. Torralba                                 |      |      |
+| 2009 | “A Tensor-Based Algorithm for High-Order Graph Matching” (Honorable Mention) | O. Duchenne, F. Bach, I. S. Kweon, J. Ponce                  |      |      |
+| 2008 | “Fast Image Search for Learned Metrics”                      | P. Jain, B. Kulis, K. Grauman                                |      |      |
+| 2007 | “Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Life Spans” | Y. Li, H. Ai, T. Yamashita, S. Lao, M. Kawade                |      |      |
+| 2006 | “Fast Image Search for Learned Metrics”                      | P. Jain, B. Kulis, K. Grauman                                |      |      |
+| 2003 | “Vector-Valued Image Regularization with PDE’s: A Common Framework for Different Applications” | D. Tschumperle, R. Deriche                                   |      |      |
+| 2001 | “Tracking and modeling non-rigid objects with rank constraints” | L. Torresani, D. Yang, E. Alexander, C. Bregler              |      |      |
+| 2001 | “Dense image matching with global and local statistical criteria: a variational approach” (Outstanding Student Paper) | G. Hermosillo, O. Faugeras                                   |      |      |
+| 2001 | “JPDAF based HMM for real-time contour tracking” (Outstanding Student Paper) | Y. Chen, Y. Rui, T. Huang                                    |      |      |
+| 2001 | “Model-based curve evolution techniques for image segmentation” (Outstanding Student Paper) | A. Tsai, A. Yezzi, W. Wells, C. Tempany, D. Tucker, A. Fan, E. Grimson, A. Willsky |      |      |
+| 1994 | “Occluding Contour Detection Using Affine Invariants and Purposive Viewpoint Control” | K. Kutulakos and C. Dyer                                     |      |      |
 
 ## CVPR Best Paper Honorable Mention Award
 
 The CVPR best paper honorable mention award is picked by a committee delegated by the program chairs of the conference. It recognizes outstanding work appearing at the conference.
 
-| Year | Paper                                                        | Author                                                       |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | [“DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation”]((https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)) | N. Ruiz, Y. Li, V. Jampani, Y. Pritch, M. Rubinstein, K. Aberman |
-| 2023 | [“DynIBaR: Neural Dynamic Image-Based Rendering”](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DynIBaR_Neural_Dynamic_Image-Based_Rendering_CVPR_2023_paper.pdf) | Z. Li, Q. Wang, F. Cole, R. Tucker, N. Snavely               |
-| 2022 | [“Dual-Shutter Optical Vibration Sensing”](https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf) | M. Sheinin, D. Chan, M. O’Toole, S. Narasimhan               |
-| 2022 | [“Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields”](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf) | D. Verbin, P. Hedman, B. Mildenhall, T. Zickler, J. Barron, P. Srinivasan |
-| 2021 | “Exploring Simple Siamese Representation Learning”           | X. Chen, K. He                                               |
-| 2021 | “Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos” | Y. Jafarian, H. S. Park                                      |
-| 2021 | “Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling” | J. Lei, L. Li, L. Zhou, Z. Gan, T. L. Berg, M. Bansal, J. Liu |
-| 2021 | “Binary TTC: A Temporal Geofence for Autonomous Navigation”  | A. Badki, O. Gallo, J. Kautz, P. Sen                         |
-| 2021 | “Real-Time High-Resolution Background Matting”               | S. Lin, A. Ryabtsev, S. Sengupta, B. Curless, S. Seitz, I. Kemelmacher-Shlizerman |
-| 2020 | [“DeepCap: Monocular Human Performance Capture Using Weak Supervision”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf) | M. Habermann, W. Xu, M. Zollhöfer, G. Pons-Moll, Christian Theobalt |
-| 2019 | [“A Style-Based Generator Architecture for Generative Adversarial Networks”]((https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)) | T. Karras, S. Laine and T. Aila                              |
-| 2019 | [“Learning the Depths of Moving People by Watching Frozen People”]((https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)) | Z. Li, T. Dekel, F. Cole, R. Tucker, C. Liu, B. Freeman and N. Snavely |
-| 2018 | “Deep Learning of Graph Matching”                            | A. Zanfir and C. Sminchisescu.                               |
-| 2018 | “SPLATNet: Sparse Lattice Networks for Point Cloud Processing” | H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M.-H. Yang, and J. Kautz |
-| 2018 | “CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM” | M. Bloesch, J. Czarnowski, R. Clark, S. Leutenegger, and A. J. Davison |
-| 2018 | “Efficient Optimization for Rank-Based Loss Functions”       | P. Mohapatra, M. Rolinek, C.V. Jawahar, V. Kolmogorov, and M. Pawan Kumar |
-| 2017 | “Annotating Object Instances with a Polygon-RNN”             | L. Castrejon, K. Kundu, R. Urtasun, S. Fidler                |
-| 2017 | “YOLO9000: Better, Faster, Stronger”                         | J. Redmon, A. Farhadi                                        |
-| 2016 | “Sublabel-Accurate Relaxation of Nonconvex Energies”         | T. Mollenhoff, E. Laude, M. Moeller, J. Lellmann, D. Cremers |
-| 2015 | “Efficient Globally Optimal Consensus Maximisation with Tree Search” | T.-J. Chin, P. Purkait, A. Eriksson, D. Suter                |
-| 2015 | “Fully Convolutional Networks for Semantic Segmentation”     | J. Long, E. Shelhamer, T. Darrell                            |
-| 2015 | “Picture: A Probabilistic Programming Language for Scene Perception” | T. D. Kulkarni, P. Kohli, J. B. Tenenbaum, V. Mansinghka     |
-| 2014 | “3D Shape and Indirect Appearance by Structured Light Transport” | M. O’Toole, J. Mather, K. Kutulakos                          |
-| 2013 | “Lost! Leveraging the Crowd for Probabilistic Visual Self-Localization” | M. Brubaker, A. Geiger, R. Urtasun                           |
-| 2011 | “Discrete-Continuous Optimization for Large-scale Structure from Motion” | D. Crandall, A. Owens, N. Snavely, D. Huttenlocher           |
-| 2009 | “Understanding and evaluating blind deconvolution algorithms” | A. Levin, Y. Weiss, F. Durand, B. Freeman                    |
-| 2007 | “Spectral Matting”                                           | A. Levin, A. Rav-Acha, D. Lischinski                         |
-| 2007 | “Human Detection via Classification on Riemannian Manifolds” | O. Tuzel, F. Porikli, P. Meer                                |
-| 2006 | “Incremental learning of object detectors using a visual shape alphabet” | A. Opelt, A. Pinz, A. Zisserman                              |
-| 2005 | “A Non-Local Algorithm for Image Denoising”                  | A. Buades, B. Coll, J.-M. Morel                              |
-| 2005 | “Bi-Layer Segmentation of Binocular Stereo Video”            | V. Kolmogorov, A. Criminisi, A. Blake, G. Cross, C. Rother   |
-| 2005 | “Video Epitomes”                                             | V. Cheung, B. J. Frey, N. Jojic                              |
-| 2003 | “Constraint on Five Points in Two Images”                    | T. Werner                                                    |
-| 2001 | “Robust on-line appearance models for visual tracking”       | A. Jepson, D. Fleet, T. F. El-Maraghi                        |
-| 2000 | “In search of illumination invariants”                       | H. Chen, P. Belhumeur, and D. Jacobs                         |
+| Year | Paper                                                        | Author                                                       | Code | Demo |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| 2023 | [“DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation”]((https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)) | N. Ruiz, Y. Li, V. Jampani, Y. Pritch, M. Rubinstein, K. Aberman |      |      |
+| 2023 | [“DynIBaR: Neural Dynamic Image-Based Rendering”](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DynIBaR_Neural_Dynamic_Image-Based_Rendering_CVPR_2023_paper.pdf) | Z. Li, Q. Wang, F. Cole, R. Tucker, N. Snavely               |      |      |
+| 2022 | [“Dual-Shutter Optical Vibration Sensing”](https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf) | M. Sheinin, D. Chan, M. O’Toole, S. Narasimhan               |      |      |
+| 2022 | [“Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields”](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf) | D. Verbin, P. Hedman, B. Mildenhall, T. Zickler, J. Barron, P. Srinivasan |      |      |
+| 2021 | “Exploring Simple Siamese Representation Learning”           | X. Chen, K. He                                               |      |      |
+| 2021 | “Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos” | Y. Jafarian, H. S. Park                                      |      |      |
+| 2021 | “Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling” | J. Lei, L. Li, L. Zhou, Z. Gan, T. L. Berg, M. Bansal, J. Liu |      |      |
+| 2021 | “Binary TTC: A Temporal Geofence for Autonomous Navigation”  | A. Badki, O. Gallo, J. Kautz, P. Sen                         |      |      |
+| 2021 | “Real-Time High-Resolution Background Matting”               | S. Lin, A. Ryabtsev, S. Sengupta, B. Curless, S. Seitz, I. Kemelmacher-Shlizerman |      |      |
+| 2020 | [“DeepCap: Monocular Human Performance Capture Using Weak Supervision”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf) | M. Habermann, W. Xu, M. Zollhöfer, G. Pons-Moll, Christian Theobalt |      |      |
+| 2019 | [“A Style-Based Generator Architecture for Generative Adversarial Networks”]((https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)) | T. Karras, S. Laine and T. Aila                              |      |      |
+| 2019 | [“Learning the Depths of Moving People by Watching Frozen People”]((https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)) | Z. Li, T. Dekel, F. Cole, R. Tucker, C. Liu, B. Freeman and N. Snavely |      |      |
+| 2018 | “Deep Learning of Graph Matching”                            | A. Zanfir and C. Sminchisescu.                               |      |      |
+| 2018 | “SPLATNet: Sparse Lattice Networks for Point Cloud Processing” | H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M.-H. Yang, and J. Kautz |      |      |
+| 2018 | “CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM” | M. Bloesch, J. Czarnowski, R. Clark, S. Leutenegger, and A. J. Davison |      |      |
+| 2018 | “Efficient Optimization for Rank-Based Loss Functions”       | P. Mohapatra, M. Rolinek, C.V. Jawahar, V. Kolmogorov, and M. Pawan Kumar |      |      |
+| 2017 | “Annotating Object Instances with a Polygon-RNN”             | L. Castrejon, K. Kundu, R. Urtasun, S. Fidler                |      |      |
+| 2017 | “YOLO9000: Better, Faster, Stronger”                         | J. Redmon, A. Farhadi                                        |      |      |
+| 2016 | “Sublabel-Accurate Relaxation of Nonconvex Energies”         | T. Mollenhoff, E. Laude, M. Moeller, J. Lellmann, D. Cremers |      |      |
+| 2015 | “Efficient Globally Optimal Consensus Maximisation with Tree Search” | T.-J. Chin, P. Purkait, A. Eriksson, D. Suter                |      |      |
+| 2015 | “Fully Convolutional Networks for Semantic Segmentation”     | J. Long, E. Shelhamer, T. Darrell                            |      |      |
+| 2015 | “Picture: A Probabilistic Programming Language for Scene Perception” | T. D. Kulkarni, P. Kohli, J. B. Tenenbaum, V. Mansinghka     |      |      |
+| 2014 | “3D Shape and Indirect Appearance by Structured Light Transport” | M. O’Toole, J. Mather, K. Kutulakos                          |      |      |
+| 2013 | “Lost! Leveraging the Crowd for Probabilistic Visual Self-Localization” | M. Brubaker, A. Geiger, R. Urtasun                           |      |      |
+| 2011 | “Discrete-Continuous Optimization for Large-scale Structure from Motion” | D. Crandall, A. Owens, N. Snavely, D. Huttenlocher           |      |      |
+| 2009 | “Understanding and evaluating blind deconvolution algorithms” | A. Levin, Y. Weiss, F. Durand, B. Freeman                    |      |      |
+| 2007 | “Spectral Matting”                                           | A. Levin, A. Rav-Acha, D. Lischinski                         |      |      |
+| 2007 | “Human Detection via Classification on Riemannian Manifolds” | O. Tuzel, F. Porikli, P. Meer                                |      |      |
+| 2006 | “Incremental learning of object detectors using a visual shape alphabet” | A. Opelt, A. Pinz, A. Zisserman                              |      |      |
+| 2005 | “A Non-Local Algorithm for Image Denoising”                  | A. Buades, B. Coll, J.-M. Morel                              |      |      |
+| 2005 | “Bi-Layer Segmentation of Binocular Stereo Video”            | V. Kolmogorov, A. Criminisi, A. Blake, G. Cross, C. Rother   |      |      |
+| 2005 | “Video Epitomes”                                             | V. Cheung, B. J. Frey, N. Jojic                              |      |      |
+| 2003 | “Constraint on Five Points in Two Images”                    | T. Werner                                                    |      |      |
+| 2001 | “Robust on-line appearance models for visual tracking”       | A. Jepson, D. Fleet, T. F. El-Maraghi                        |      |      |
+| 2000 | “In search of illumination invariants”                       | H. Chen, P. Belhumeur, and D. Jacobs                         |      |      |
 
 ## ICCV Best Paper (Marr Prize)
 
