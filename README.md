@@ -1,119 +1,4 @@
-# Awesome-CV-Best-Paper-List
-
-## CVPR 2023 Awards
-
-**Best Paper:** 
-
-[Visual Programming: Compositional visual reasoning without training](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)
-
-**Best Paper:** 
-
-[Planning-oriented Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf) [Code](https://github.com/OpenDriveLab/UniAD)
-
-**Honorable Mention:** 
-
-[DynIBaR: Neural Dynamic Image-Based Rendering](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DynIBaR_Neural_Dynamic_Image-Based_Rendering_CVPR_2023_paper.pdf)
-
-**Best Student Paper:** 
-
-[3D Registration with Maximal Cliques](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.pdf)
-
-**Honorable Mention (Student):** 
-
-[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)
-
-## CVPR 2022 Awards
-
-**Best Paper Award:**
-[Learning to Solve Hard Minimal Problems](https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf)
-Petr Hruby, Timothy Duff, Anton Leykin, and Tomas Pajdla
-
-**Best Paper Honorable Mention:**
-[Dual-Shutter Optical Vibration Sensing](https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf)
-Mark Sheinin, Dorian Chan, Matthew O'Toole, Srinivasa Narasimhan
-
-**Best Student Paper Award:**
-[EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf)
-Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li
-
-**Best Student Paper Honorable Mention:**
-[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)
-Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan Barron, Pratul Srinivasan
-
-## CVPR 2021 Awards
-
-**Best Student Paper Honorable Mentions**
-
-"[Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://openaccess.thecvf.com/content/CVPR2021/html/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.html)"
-Jie Lei, Linjie Li, Luowei Zhou, Zhe Gan, Tamara L. Berg, Mohit Bansal, Jingjing Liu
-
-"[Binary TTC: A Temporal Geofence for Autonomous Navigation](https://openaccess.thecvf.com/content/CVPR2021/html/Badki_Binary_TTC_A_Temporal_Geofence_for_Autonomous_Navigation_CVPR_2021_paper.html)"
-Abhishek Badki, Orazio Gallo, Jan Kautz, Pradeep Sen
-
-"[Real-Time High-Resolution Background Matting](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_Real-Time_High-Resolution_Background_Matting_CVPR_2021_paper.html)"
-Shanchuan Lin, Andrey Ryabtsev, Soumyadip Sengupta, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman
-
-**Best Student Paper**
-
-"[Task Programming: Learning Data Efficient Behavior Representations](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Task_Programming_Learning_Data_Efficient_Behavior_Representations_CVPR_2021_paper.html)"
-Jennifer J. Sun, Ann Kennedy, Eric Zhan, David J. Anderson, Yisong Yue, Pietro Perona
-
-**Best Paper Honorable Mentions**
-
-"[Exploring Simple Siamese Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html)"
-Xinlei Chen, Kaiming He
-
-"[Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Jafarian_Learning_High_Fidelity_Depths_of_Dressed_Humans_by_Watching_Social_CVPR_2021_paper.html)"
-Yasamin Jafarian, Hyun Soo Park
-
-**Best Paper**
-
-"[GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://openaccess.thecvf.com/content/CVPR2021/html/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.html)"
-Michael Niemeyer, Andreas Geiger
-
-## CVPR 2020 Awards
-
-**Best Student Paper Honorable Mention:** 
-
-[DeepCap: Monocular Human Performance Capture Using Weak Supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf)
-
-Marc Habermann (Max Planck Institute for Informatics)*; Weipeng Xu (MPII); Michael Zollhöfer (Facebook Reality Labs); Gerard Pons-Moll (MPII, Germany);  Christian Theobalt (MPI Informatik)
-
-**Best Student Paper Award:** 
-
-[BSP-Net: Generating Compact Meshes via Binary Space Partitioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf) [Demo](https://bsp-net.github.io/)
-
-Zhiqin Chen (Simon Fraser University); Andrea Tagliasacchi (Google Inc.); Hao Zhang (Simon Fraser University)
-
-**Best Paper Award:** 
-
-[Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf) [Demo](https://elliottwu.com/projects/20_unsup3d/)
-
-Shangzhe Wu (University of Oxford)*; Christian Rupprecht (University of Oxford); Andrea Vedaldi (Oxford University)
-
-## CVPR 2019 Awards
-
-**Best Paper Award**
-
-[A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf)
-
-Shumian Xin, Sotiris Nousias, Kyros Kutulakos, Aswin Sankaranarayanan, Srinivasa G. Narasimhan and Ioannis Gkioulekas.
-
-**Best Student Paper Award**
-
-[Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.pdf)
-
-Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang and Lei Zhang.
-
-**Best Paper Honorable Mention**
-
-[A Style-Based Generator Architecture for Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
-
-Tero Karras, Samuli Laine and Timo Aila.
-
-[Learning the Depths of Moving People by Watching Frozen People](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)
-
-Zhengqi Li, Tali Dekel, Forrester Cole, Richard Tucker, Ce Liu, Bill Freeman and Noah Snavely.
+# Awesome-CV-Best-Paper-List)
 
 ## CVPR Best Paper Award
 
@@ -121,12 +6,12 @@ The CVPR best paper award is picked by a committee delegated by the program chai
 
 | Year | Paper                                                        | Author                                                       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | “Visual Programming: Compositional Visual Reasoning Without Training” | T. Gupta, A. Kembhavi                                        |
-| 2023 | “Planning-Oriented Autonomous Driving”                       | Y. Hu, J. Yang, L. Chen, K. Li, C. Sima, X. Zhu, S. Chai, S. Du, T. Lin, W. Wang, L. Lu, X. Jia, Q. Liu, J. Dai, Y. Qiao, H. Li |
-| 2022 | “Learning to Solve Hard Minimal Problems”                    | P. Hruby, T. Duff, A. Leykin, T. Pajdla                      |
-| 2021 | “GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields” | M. Niemeyer, A. Geiger                                       |
-| 2020 | “Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild” | S. Wu, C. Rupprecht, A. Vedaldi                              |
-| 2019 | “A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction” | S. Xin, S. Nousias, K. Kutulakos, A. Sankaranarayanan, S. G. Narasimhan, I. Gkioulekas |
+| 2023 | ["Visual Programming: Compositional Visual Reasoning Without Training"]((https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)) | T. Gupta, A. Kembhavi                                        |
+| 2023 | [“Planning-Oriented Autonomous Driving”](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf) [Code](https://github.com/OpenDriveLab/UniAD) | Y. Hu, J. Yang, L. Chen, K. Li, C. Sima, X. Zhu, S. Chai, S. Du, T. Lin, W. Wang, L. Lu, X. Jia, Q. Liu, J. Dai, Y. Qiao, H. Li |
+| 2022 | [“Learning to Solve Hard Minimal Problems”](https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf) | P. Hruby, T. Duff, A. Leykin, T. Pajdla                      |
+| 2021 | [“GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields”](https://openaccess.thecvf.com/content/CVPR2021/html/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.html)" | M. Niemeyer, A. Geiger                                       |
+| 2020 | [“Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf) [Demo](https://elliottwu.com/projects/20_unsup3d/) | S. Wu, C. Rupprecht, A. Vedaldi                              |
+| 2019 | [“A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction”](https://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf) | S. Xin, S. Nousias, K. Kutulakos, A. Sankaranarayanan, S. G. Narasimhan, I. Gkioulekas |
 | 2018 | “Taskonomy: Disentangling Task Transfer Learning”            | A. R. Zamir, A. Sax, W. Shen, L. J. Guibas, J. Malik, S. Savarese |
 | 2017 | “Densely Connected Convolutional Networks”                   | G. Huang, Z. Liu, L. van der Maaten, K. Q. Weinberger        |
 | 2017 | “Learning from Simulated and Unsupervised Images through Adversarial Training” | A. Shrivastava, T. Pfister, O. Tuzel, J. Susskind, W. Wang, R. Webb |
@@ -163,11 +48,11 @@ The CVPR best student paper award is picked by a committee delegated by the prog
 
 | Year | Paper                                                        | Author                                                       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | “3D Registration With Maximal Cliques”                       | X. Zhang, J. Yang, S. Zhang, Y. Zhang                        |
-| 2022 | “EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation” | H. Chen, P. Wang, F. Wang, W. Tian, L. Xiong, H. Li          |
-| 2021 | “Task Programming: Learning Data Efficient Behavior Representations” | J. J. Sun, A. Kennedy, E. Zhan, D. J. Anderson, Y. Yue, P. Perona |
-| 2020 | “BSP-Net: Generating Compact Meshes via Binary Space Partitioning” | Z. Chen, A. Tagliasacchi, H. Zhang                           |
-| 2019 | “Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation” | X. Wang, Q. Huang, A. Celikyilmaz, J. Gao, D. Shen, Y.-F. Wang, W. Y. Wang, L. Zhang |
+| 2023 | [“3D Registration With Maximal Cliques”](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.pdf) | X. Zhang, J. Yang, S. Zhang, Y. Zhang                        |
+| 2022 | [“EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation”](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf) | H. Chen, P. Wang, F. Wang, W. Tian, L. Xiong, H. Li          |
+| 2021 | [“Task Programming: Learning Data Efficient Behavior Representations”](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Task_Programming_Learning_Data_Efficient_Behavior_Representations_CVPR_2021_paper.html) | J. J. Sun, A. Kennedy, E. Zhan, D. J. Anderson, Y. Yue, P. Perona |
+| 2020 | [“BSP-Net: Generating Compact Meshes via Binary Space Partitioning”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf) [Demo](https://bsp-net.github.io/) | Z. Chen, A. Tagliasacchi, H. Zhang                           |
+| 2019 | [“Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation”](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.pdf) | X. Wang, Q. Huang, A. Celikyilmaz, J. Gao, D. Shen, Y.-F. Wang, W. Y. Wang, L. Zhang |
 | 2018 | “Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies” | H. Joo, T. Simon, Y. Sheikh                                  |
 | 2017 | “Computational Imaging on the Electric Grid”                 | M. Sheinin, Y. Y. Schechner, K. N. Kutulakos                 |
 | 2016 | “Structural-RNN: Deep Learning on Spatio-Temporal Graphs”    | A. Jain, A. R. Zamir, S. Savarese, A. Saxena                 |
@@ -197,18 +82,18 @@ The CVPR best paper honorable mention award is picked by a committee delegated b
 
 | Year | Paper                                                        | Author                                                       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | “DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation” | N. Ruiz, Y. Li, V. Jampani, Y. Pritch, M. Rubinstein, K. Aberman |
-| 2023 | “DynIBaR: Neural Dynamic Image-Based Rendering”              | Z. Li, Q. Wang, F. Cole, R. Tucker, N. Snavely               |
-| 2022 | “Dual-Shutter Optical Vibration Sensing”                     | M. Sheinin, D. Chan, M. O’Toole, S. Narasimhan               |
-| 2022 | “Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields” | D. Verbin, P. Hedman, B. Mildenhall, T. Zickler, J. Barron, P. Srinivasan |
+| 2023 | [“DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation”]((https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)) | N. Ruiz, Y. Li, V. Jampani, Y. Pritch, M. Rubinstein, K. Aberman |
+| 2023 | [“DynIBaR: Neural Dynamic Image-Based Rendering”](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DynIBaR_Neural_Dynamic_Image-Based_Rendering_CVPR_2023_paper.pdf) | Z. Li, Q. Wang, F. Cole, R. Tucker, N. Snavely               |
+| 2022 | [“Dual-Shutter Optical Vibration Sensing”](https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf) | M. Sheinin, D. Chan, M. O’Toole, S. Narasimhan               |
+| 2022 | [“Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields”](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf) | D. Verbin, P. Hedman, B. Mildenhall, T. Zickler, J. Barron, P. Srinivasan |
 | 2021 | “Exploring Simple Siamese Representation Learning”           | X. Chen, K. He                                               |
 | 2021 | “Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos” | Y. Jafarian, H. S. Park                                      |
 | 2021 | “Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling” | J. Lei, L. Li, L. Zhou, Z. Gan, T. L. Berg, M. Bansal, J. Liu |
 | 2021 | “Binary TTC: A Temporal Geofence for Autonomous Navigation”  | A. Badki, O. Gallo, J. Kautz, P. Sen                         |
 | 2021 | “Real-Time High-Resolution Background Matting”               | S. Lin, A. Ryabtsev, S. Sengupta, B. Curless, S. Seitz, I. Kemelmacher-Shlizerman |
-| 2020 | “DeepCap: Monocular Human Performance Capture Using Weak Supervision” | M. Habermann, W. Xu, M. Zollhöfer, G. Pons-Moll, Christian Theobalt |
-| 2019 | “A Style-Based Generator Architecture for Generative Adversarial Networks” | T. Karras, S. Laine and T. Aila                              |
-| 2019 | “Learning the Depths of Moving People by Watching Frozen People” | Z. Li, T. Dekel, F. Cole, R. Tucker, C. Liu, B. Freeman and N. Snavely |
+| 2020 | [“DeepCap: Monocular Human Performance Capture Using Weak Supervision”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf) | M. Habermann, W. Xu, M. Zollhöfer, G. Pons-Moll, Christian Theobalt |
+| 2019 | [“A Style-Based Generator Architecture for Generative Adversarial Networks”]((https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)) | T. Karras, S. Laine and T. Aila                              |
+| 2019 | [“Learning the Depths of Moving People by Watching Frozen People”]((https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)) | Z. Li, T. Dekel, F. Cole, R. Tucker, C. Liu, B. Freeman and N. Snavely |
 | 2018 | “Deep Learning of Graph Matching”                            | A. Zanfir and C. Sminchisescu.                               |
 | 2018 | “SPLATNet: Sparse Lattice Networks for Point Cloud Processing” | H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M.-H. Yang, and J. Kautz |
 | 2018 | “CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM” | M. Bloesch, J. Czarnowski, R. Clark, S. Leutenegger, and A. J. Davison |
